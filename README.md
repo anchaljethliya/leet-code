@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/anchaljethliya/leet-code/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/anchaljethliya/leet-code/tree/master/0383-ransom-note) |
 ## Sorting
 |  |
 | ------- |
@@ -31,11 +32,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/anchaljethliya/leet-code/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/anchaljethliya/leet-code/tree/master/0383-ransom-note) |
 ## String
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/anchaljethliya/leet-code/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anchaljethliya/leet-code/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/anchaljethliya/leet-code/tree/master/0383-ransom-note) |
 | [0402-remove-k-digits](https://github.com/anchaljethliya/leet-code/tree/master/0402-remove-k-digits) |
 ## Stack
 |  |
