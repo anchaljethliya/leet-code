@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/anchaljethliya/leet-code/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/anchaljethliya/leet-code/tree/master/0134-gas-station) |
 | [0229-majority-element-ii](https://github.com/anchaljethliya/leet-code/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/anchaljethliya/leet-code/tree/master/0268-missing-number) |
 ## Greedy
 |  |
 | ------- |
@@ -23,11 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/anchaljethliya/leet-code/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/anchaljethliya/leet-code/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/anchaljethliya/leet-code/tree/master/0383-ransom-note) |
 ## Sorting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/anchaljethliya/leet-code/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/anchaljethliya/leet-code/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -59,4 +62,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0388-longest-absolute-file-path](https://github.com/anchaljethliya/leet-code/tree/master/0388-longest-absolute-file-path) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/anchaljethliya/leet-code/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/anchaljethliya/leet-code/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/anchaljethliya/leet-code/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
