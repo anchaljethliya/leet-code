@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/anchaljethliya/leet-code/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/anchaljethliya/leet-code/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/anchaljethliya/leet-code/tree/master/0383-ransom-note) |
+| [0451-sort-characters-by-frequency](https://github.com/anchaljethliya/leet-code/tree/master/0451-sort-characters-by-frequency) |
 ## Sorting
 |  |
 | ------- |
@@ -41,11 +42,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/anchaljethliya/leet-code/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/anchaljethliya/leet-code/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/anchaljethliya/leet-code/tree/master/0436-find-right-interval) |
+| [0451-sort-characters-by-frequency](https://github.com/anchaljethliya/leet-code/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/anchaljethliya/leet-code/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/anchaljethliya/leet-code/tree/master/0383-ransom-note) |
+| [0451-sort-characters-by-frequency](https://github.com/anchaljethliya/leet-code/tree/master/0451-sort-characters-by-frequency) |
 ## String
 |  |
 | ------- |
@@ -54,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/anchaljethliya/leet-code/tree/master/0383-ransom-note) |
 | [0388-longest-absolute-file-path](https://github.com/anchaljethliya/leet-code/tree/master/0388-longest-absolute-file-path) |
 | [0402-remove-k-digits](https://github.com/anchaljethliya/leet-code/tree/master/0402-remove-k-digits) |
+| [0451-sort-characters-by-frequency](https://github.com/anchaljethliya/leet-code/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/anchaljethliya/leet-code/tree/master/0680-valid-palindrome-ii) |
 ## Stack
 |  |
@@ -87,4 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/anchaljethliya/leet-code/tree/master/0268-missing-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/anchaljethliya/leet-code/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/anchaljethliya/leet-code/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
