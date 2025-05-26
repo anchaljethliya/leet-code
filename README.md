@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/anchaljethliya/leet-code/tree/master/0134-gas-station) |
 | [0229-majority-element-ii](https://github.com/anchaljethliya/leet-code/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/anchaljethliya/leet-code/tree/master/0268-missing-number) |
+| [0435-non-overlapping-intervals](https://github.com/anchaljethliya/leet-code/tree/master/0435-non-overlapping-intervals) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anchaljethliya/leet-code/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Greedy
 |  |
@@ -17,12 +18,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/anchaljethliya/leet-code/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/anchaljethliya/leet-code/tree/master/0134-gas-station) |
 | [0402-remove-k-digits](https://github.com/anchaljethliya/leet-code/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/anchaljethliya/leet-code/tree/master/0435-non-overlapping-intervals) |
 | [0680-valid-palindrome-ii](https://github.com/anchaljethliya/leet-code/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anchaljethliya/leet-code/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/anchaljethliya/leet-code/tree/master/0045-jump-game-ii) |
+| [0435-non-overlapping-intervals](https://github.com/anchaljethliya/leet-code/tree/master/0435-non-overlapping-intervals) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anchaljethliya/leet-code/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Hash Table
 |  |
@@ -35,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/anchaljethliya/leet-code/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/anchaljethliya/leet-code/tree/master/0268-missing-number) |
+| [0435-non-overlapping-intervals](https://github.com/anchaljethliya/leet-code/tree/master/0435-non-overlapping-intervals) |
 ## Counting
 |  |
 | ------- |
