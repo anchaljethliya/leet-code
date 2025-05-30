@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/anchaljethliya/leet-code/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anchaljethliya/leet-code/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/anchaljethliya/leet-code/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/anchaljethliya/leet-code/tree/master/1341-split-a-string-in-balanced-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/anchaljethliya/leet-code/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/anchaljethliya/leet-code/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/anchaljethliya/leet-code/tree/master/0451-sort-characters-by-frequency) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/anchaljethliya/leet-code/tree/master/1341-split-a-string-in-balanced-strings) |
 ## String
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/anchaljethliya/leet-code/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/anchaljethliya/leet-code/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/anchaljethliya/leet-code/tree/master/0680-valid-palindrome-ii) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/anchaljethliya/leet-code/tree/master/1341-split-a-string-in-balanced-strings) |
 ## Stack
 |  |
 | ------- |
