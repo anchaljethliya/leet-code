@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0554-brick-wall](https://github.com/anchaljethliya/leet-code/tree/master/0554-brick-wall) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anchaljethliya/leet-code/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/anchaljethliya/leet-code/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1379-reconstruct-a-2-row-binary-matrix](https://github.com/anchaljethliya/leet-code/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 ## Greedy
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/anchaljethliya/leet-code/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/anchaljethliya/leet-code/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/anchaljethliya/leet-code/tree/master/1369-minimum-swaps-to-make-strings-equal) |
+| [1379-reconstruct-a-2-row-binary-matrix](https://github.com/anchaljethliya/leet-code/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -134,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anchaljethliya/leet-code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Matrix
+|  |
+| ------- |
+| [1379-reconstruct-a-2-row-binary-matrix](https://github.com/anchaljethliya/leet-code/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 <!---LeetCode Topics End-->
