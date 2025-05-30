@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anchaljethliya/leet-code/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/anchaljethliya/leet-code/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/anchaljethliya/leet-code/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1369-minimum-swaps-to-make-strings-equal](https://github.com/anchaljethliya/leet-code/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/anchaljethliya/leet-code/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/anchaljethliya/leet-code/tree/master/0680-valid-palindrome-ii) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/anchaljethliya/leet-code/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1369-minimum-swaps-to-make-strings-equal](https://github.com/anchaljethliya/leet-code/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 ## Stack
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/anchaljethliya/leet-code/tree/master/0268-missing-number) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/anchaljethliya/leet-code/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1369-minimum-swaps-to-make-strings-equal](https://github.com/anchaljethliya/leet-code/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 ## Binary Search
 |  |
 | ------- |
