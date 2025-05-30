@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anchaljethliya/leet-code/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/anchaljethliya/leet-code/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/anchaljethliya/leet-code/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
+| [1388-greatest-sum-divisible-by-three](https://github.com/anchaljethliya/leet-code/tree/master/1388-greatest-sum-divisible-by-three) |
 ## Greedy
 |  |
 | ------- |
@@ -33,12 +34,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/anchaljethliya/leet-code/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/anchaljethliya/leet-code/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/anchaljethliya/leet-code/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
+| [1388-greatest-sum-divisible-by-three](https://github.com/anchaljethliya/leet-code/tree/master/1388-greatest-sum-divisible-by-three) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/anchaljethliya/leet-code/tree/master/0045-jump-game-ii) |
 | [0435-non-overlapping-intervals](https://github.com/anchaljethliya/leet-code/tree/master/0435-non-overlapping-intervals) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anchaljethliya/leet-code/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1388-greatest-sum-divisible-by-three](https://github.com/anchaljethliya/leet-code/tree/master/1388-greatest-sum-divisible-by-three) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/anchaljethliya/leet-code/tree/master/0436-find-right-interval) |
 | [0451-sort-characters-by-frequency](https://github.com/anchaljethliya/leet-code/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/anchaljethliya/leet-code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [1388-greatest-sum-divisible-by-three](https://github.com/anchaljethliya/leet-code/tree/master/1388-greatest-sum-divisible-by-three) |
 ## Counting
 |  |
 | ------- |
