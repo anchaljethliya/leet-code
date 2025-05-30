@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/anchaljethliya/leet-code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0554-brick-wall](https://github.com/anchaljethliya/leet-code/tree/master/0554-brick-wall) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anchaljethliya/leet-code/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/anchaljethliya/leet-code/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 ## Greedy
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/anchaljethliya/leet-code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0680-valid-palindrome-ii](https://github.com/anchaljethliya/leet-code/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anchaljethliya/leet-code/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/anchaljethliya/leet-code/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/anchaljethliya/leet-code/tree/master/0268-missing-number) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/anchaljethliya/leet-code/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 ## Binary Search
 |  |
 | ------- |
