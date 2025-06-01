@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/anchaljethliya/leet-code/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/anchaljethliya/leet-code/tree/master/1388-greatest-sum-divisible-by-three) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/anchaljethliya/leet-code/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/anchaljethliya/leet-code/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/anchaljethliya/leet-code/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/anchaljethliya/leet-code/tree/master/0451-sort-characters-by-frequency) |
 | [0554-brick-wall](https://github.com/anchaljethliya/leet-code/tree/master/0554-brick-wall) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/anchaljethliya/leet-code/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/anchaljethliya/leet-code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/anchaljethliya/leet-code/tree/master/1388-greatest-sum-divisible-by-three) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/anchaljethliya/leet-code/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/anchaljethliya/leet-code/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Counting
 |  |
 | ------- |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/anchaljethliya/leet-code/tree/master/0451-sort-characters-by-frequency) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/anchaljethliya/leet-code/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Bucket Sort
 |  |
 | ------- |
