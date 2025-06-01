@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/anchaljethliya/leet-code/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/anchaljethliya/leet-code/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/anchaljethliya/leet-code/tree/master/1388-greatest-sum-divisible-by-three) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/anchaljethliya/leet-code/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Greedy
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/anchaljethliya/leet-code/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/anchaljethliya/leet-code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/anchaljethliya/leet-code/tree/master/1388-greatest-sum-divisible-by-three) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/anchaljethliya/leet-code/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Counting
 |  |
 | ------- |
@@ -155,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/anchaljethliya/leet-code/tree/master/0148-sort-list) |
+## Sliding Window
+|  |
+| ------- |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/anchaljethliya/leet-code/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 <!---LeetCode Topics End-->
