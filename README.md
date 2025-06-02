@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/anchaljethliya/leet-code/tree/master/0045-jump-game-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anchaljethliya/leet-code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/anchaljethliya/leet-code/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/anchaljethliya/leet-code/tree/master/0135-candy) |
 | [0229-majority-element-ii](https://github.com/anchaljethliya/leet-code/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/anchaljethliya/leet-code/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/anchaljethliya/leet-code/tree/master/0435-non-overlapping-intervals) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/anchaljethliya/leet-code/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/anchaljethliya/leet-code/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/anchaljethliya/leet-code/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/anchaljethliya/leet-code/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/anchaljethliya/leet-code/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/anchaljethliya/leet-code/tree/master/0435-non-overlapping-intervals) |
