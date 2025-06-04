@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/anchaljethliya/leet-code/tree/master/0268-missing-number) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/anchaljethliya/leet-code/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/anchaljethliya/leet-code/tree/master/1369-minimum-swaps-to-make-strings-equal) |
+| [3201-distribute-candies-among-children-ii](https://github.com/anchaljethliya/leet-code/tree/master/3201-distribute-candies-among-children-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -181,5 +182,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3201-distribute-candies-among-children-ii](https://github.com/anchaljethliya/leet-code/tree/master/3201-distribute-candies-among-children-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/anchaljethliya/leet-code/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+## Combinatorics
+|  |
+| ------- |
+| [3201-distribute-candies-among-children-ii](https://github.com/anchaljethliya/leet-code/tree/master/3201-distribute-candies-among-children-ii) |
 <!---LeetCode Topics End-->
