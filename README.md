@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/anchaljethliya/leet-code/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/anchaljethliya/leet-code/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/anchaljethliya/leet-code/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/anchaljethliya/leet-code/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/anchaljethliya/leet-code/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/anchaljethliya/leet-code/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/anchaljethliya/leet-code/tree/master/1388-greatest-sum-divisible-by-three) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/anchaljethliya/leet-code/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/anchaljethliya/leet-code/tree/master/0268-missing-number) |
 | [0436-find-right-interval](https://github.com/anchaljethliya/leet-code/tree/master/0436-find-right-interval) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/anchaljethliya/leet-code/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
