@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0388-longest-absolute-file-path](https://github.com/anchaljethliya/leet-code/tree/master/0388-longest-absolute-file-path) |
 | [0543-diameter-of-binary-tree](https://github.com/anchaljethliya/leet-code/tree/master/0543-diameter-of-binary-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/anchaljethliya/leet-code/tree/master/1035-cousins-in-binary-tree) |
 ## Math
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anchaljethliya/leet-code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/anchaljethliya/leet-code/tree/master/0543-diameter-of-binary-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/anchaljethliya/leet-code/tree/master/1035-cousins-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anchaljethliya/leet-code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/anchaljethliya/leet-code/tree/master/0543-diameter-of-binary-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/anchaljethliya/leet-code/tree/master/1035-cousins-in-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1035-cousins-in-binary-tree](https://github.com/anchaljethliya/leet-code/tree/master/1035-cousins-in-binary-tree) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/anchaljethliya/leet-code/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Graph
 |  |
