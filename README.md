@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/anchaljethliya/leet-code/tree/master/0045-jump-game-ii) |
+| [0054-spiral-matrix](https://github.com/anchaljethliya/leet-code/tree/master/0054-spiral-matrix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anchaljethliya/leet-code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/anchaljethliya/leet-code/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/anchaljethliya/leet-code/tree/master/0135-candy) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/anchaljethliya/leet-code/tree/master/0054-spiral-matrix) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/anchaljethliya/leet-code/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 ## Linked List
 |  |
@@ -203,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/anchaljethliya/leet-code/tree/master/1058-lexicographically-smallest-equivalent-string) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/anchaljethliya/leet-code/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
