@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/anchaljethliya/leet-code/tree/master/0110-balanced-binary-tree) |
 | [0388-longest-absolute-file-path](https://github.com/anchaljethliya/leet-code/tree/master/0388-longest-absolute-file-path) |
 | [0543-diameter-of-binary-tree](https://github.com/anchaljethliya/leet-code/tree/master/0543-diameter-of-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/anchaljethliya/leet-code/tree/master/1035-cousins-in-binary-tree) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anchaljethliya/leet-code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/anchaljethliya/leet-code/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/anchaljethliya/leet-code/tree/master/0543-diameter-of-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/anchaljethliya/leet-code/tree/master/1035-cousins-in-binary-tree) |
 ## Binary Search Tree
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anchaljethliya/leet-code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/anchaljethliya/leet-code/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/anchaljethliya/leet-code/tree/master/0543-diameter-of-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/anchaljethliya/leet-code/tree/master/1035-cousins-in-binary-tree) |
 ## Matrix
