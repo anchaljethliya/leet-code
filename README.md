@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/anchaljethliya/leet-code/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/anchaljethliya/leet-code/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [3201-distribute-candies-among-children-ii](https://github.com/anchaljethliya/leet-code/tree/master/3201-distribute-candies-among-children-ii) |
+| [3830-find-closest-person](https://github.com/anchaljethliya/leet-code/tree/master/3830-find-closest-person) |
 ## Binary Search
 |  |
 | ------- |
