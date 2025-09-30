@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/anchaljethliya/leet-code/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/anchaljethliya/leet-code/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/anchaljethliya/leet-code/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/anchaljethliya/leet-code/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/anchaljethliya/leet-code/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Greedy
 |  |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/anchaljethliya/leet-code/tree/master/0268-missing-number) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/anchaljethliya/leet-code/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/anchaljethliya/leet-code/tree/master/1369-minimum-swaps-to-make-strings-equal) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/anchaljethliya/leet-code/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3201-distribute-candies-among-children-ii](https://github.com/anchaljethliya/leet-code/tree/master/3201-distribute-candies-among-children-ii) |
 | [3830-find-closest-person](https://github.com/anchaljethliya/leet-code/tree/master/3830-find-closest-person) |
 ## Binary Search
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/anchaljethliya/leet-code/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3201-distribute-candies-among-children-ii](https://github.com/anchaljethliya/leet-code/tree/master/3201-distribute-candies-among-children-ii) |
 ## Union Find
 |  |
@@ -215,4 +218,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/anchaljethliya/leet-code/tree/master/0054-spiral-matrix) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/anchaljethliya/leet-code/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
