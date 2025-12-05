@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anchaljethliya/leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0316-remove-duplicate-letters](https://github.com/anchaljethliya/leet-code/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/anchaljethliya/leet-code/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anchaljethliya/leet-code/tree/master/0345-reverse-vowels-of-a-string) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anchaljethliya/leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0148-sort-list](https://github.com/anchaljethliya/leet-code/tree/master/0148-sort-list) |
 | [0344-reverse-string](https://github.com/anchaljethliya/leet-code/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anchaljethliya/leet-code/tree/master/0345-reverse-vowels-of-a-string) |
@@ -219,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/anchaljethliya/leet-code/tree/master/0054-spiral-matrix) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/anchaljethliya/leet-code/tree/master/2324-find-triangular-sum-of-an-array) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anchaljethliya/leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
