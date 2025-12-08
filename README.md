@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/anchaljethliya/leet-code/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/anchaljethliya/leet-code/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/anchaljethliya/leet-code/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1925-count-square-sum-triples](https://github.com/anchaljethliya/leet-code/tree/master/1925-count-square-sum-triples) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/anchaljethliya/leet-code/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3201-distribute-candies-among-children-ii](https://github.com/anchaljethliya/leet-code/tree/master/3201-distribute-candies-among-children-ii) |
 | [3830-find-closest-person](https://github.com/anchaljethliya/leet-code/tree/master/3830-find-closest-person) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1925-count-square-sum-triples](https://github.com/anchaljethliya/leet-code/tree/master/1925-count-square-sum-triples) |
 | [3201-distribute-candies-among-children-ii](https://github.com/anchaljethliya/leet-code/tree/master/3201-distribute-candies-among-children-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/anchaljethliya/leet-code/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Combinatorics
