@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/anchaljethliya/leet-code/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/anchaljethliya/leet-code/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/anchaljethliya/leet-code/tree/master/1388-greatest-sum-divisible-by-three) |
+| [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/anchaljethliya/leet-code/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/anchaljethliya/leet-code/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Dynamic Programming
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/anchaljethliya/leet-code/tree/master/0451-sort-characters-by-frequency) |
 | [0554-brick-wall](https://github.com/anchaljethliya/leet-code/tree/master/0554-brick-wall) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/anchaljethliya/leet-code/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/anchaljethliya/leet-code/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Sorting
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/anchaljethliya/leet-code/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/anchaljethliya/leet-code/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/anchaljethliya/leet-code/tree/master/1369-minimum-swaps-to-make-strings-equal) |
+| [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/anchaljethliya/leet-code/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/anchaljethliya/leet-code/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Stack
 |  |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/anchaljethliya/leet-code/tree/master/0316-remove-duplicate-letters) |
 | [0388-longest-absolute-file-path](https://github.com/anchaljethliya/leet-code/tree/master/0388-longest-absolute-file-path) |
 | [0402-remove-k-digits](https://github.com/anchaljethliya/leet-code/tree/master/0402-remove-k-digits) |
+| [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/anchaljethliya/leet-code/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Monotonic Stack
 |  |
 | ------- |
