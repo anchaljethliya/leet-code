@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/anchaljethliya/leet-code/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/anchaljethliya/leet-code/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/anchaljethliya/leet-code/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3583-count-special-triplets](https://github.com/anchaljethliya/leet-code/tree/master/3583-count-special-triplets) |
 ## Greedy
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0554-brick-wall](https://github.com/anchaljethliya/leet-code/tree/master/0554-brick-wall) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/anchaljethliya/leet-code/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/anchaljethliya/leet-code/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3583-count-special-triplets](https://github.com/anchaljethliya/leet-code/tree/master/3583-count-special-triplets) |
 ## Sorting
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/anchaljethliya/leet-code/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/anchaljethliya/leet-code/tree/master/0451-sort-characters-by-frequency) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/anchaljethliya/leet-code/tree/master/1341-split-a-string-in-balanced-strings) |
+| [3583-count-special-triplets](https://github.com/anchaljethliya/leet-code/tree/master/3583-count-special-triplets) |
 ## String
 |  |
 | ------- |
