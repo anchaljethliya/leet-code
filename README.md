@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/anchaljethliya/leet-code/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/anchaljethliya/leet-code/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/anchaljethliya/leet-code/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3433-count-mentions-per-user](https://github.com/anchaljethliya/leet-code/tree/master/3433-count-mentions-per-user) |
 | [3583-count-special-triplets](https://github.com/anchaljethliya/leet-code/tree/master/3583-count-special-triplets) |
 ## Greedy
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1388-greatest-sum-divisible-by-three](https://github.com/anchaljethliya/leet-code/tree/master/1388-greatest-sum-divisible-by-three) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/anchaljethliya/leet-code/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/anchaljethliya/leet-code/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [3433-count-mentions-per-user](https://github.com/anchaljethliya/leet-code/tree/master/3433-count-mentions-per-user) |
 ## Counting
 |  |
 | ------- |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/anchaljethliya/leet-code/tree/master/1925-count-square-sum-triples) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/anchaljethliya/leet-code/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3201-distribute-candies-among-children-ii](https://github.com/anchaljethliya/leet-code/tree/master/3201-distribute-candies-among-children-ii) |
+| [3433-count-mentions-per-user](https://github.com/anchaljethliya/leet-code/tree/master/3433-count-mentions-per-user) |
 | [3830-find-closest-person](https://github.com/anchaljethliya/leet-code/tree/master/3830-find-closest-person) |
 ## Binary Search
 |  |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/anchaljethliya/leet-code/tree/master/0054-spiral-matrix) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/anchaljethliya/leet-code/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3433-count-mentions-per-user](https://github.com/anchaljethliya/leet-code/tree/master/3433-count-mentions-per-user) |
 ## String Matching
 |  |
 | ------- |
