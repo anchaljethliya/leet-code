@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anchaljethliya/leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/anchaljethliya/leet-code/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0316-remove-duplicate-letters](https://github.com/anchaljethliya/leet-code/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/anchaljethliya/leet-code/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anchaljethliya/leet-code/tree/master/0345-reverse-vowels-of-a-string) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/anchaljethliya/leet-code/tree/master/0110-balanced-binary-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/anchaljethliya/leet-code/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0388-longest-absolute-file-path](https://github.com/anchaljethliya/leet-code/tree/master/0388-longest-absolute-file-path) |
 | [0543-diameter-of-binary-tree](https://github.com/anchaljethliya/leet-code/tree/master/0543-diameter-of-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/anchaljethliya/leet-code/tree/master/1035-cousins-in-binary-tree) |
@@ -239,4 +241,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anchaljethliya/leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Design
+|  |
+| ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/anchaljethliya/leet-code/tree/master/0211-design-add-and-search-words-data-structure) |
+## Trie
+|  |
+| ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/anchaljethliya/leet-code/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
